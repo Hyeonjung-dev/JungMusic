@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JungMusic/static/css/main.ce5b6c9a.css",
+    "main.js": "/JungMusic/static/js/main.c4767068.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/JungMusic/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/artist.jpg": "/JungMusic/static/media/artist.1162a757da452033436f.jpg",
+    "static/media/rock.jpg": "/JungMusic/static/media/rock.fa2f0d98132065298a52.jpg",
+    "static/media/background2.jpg": "/JungMusic/static/media/background2.c2c9f352effcfa876888.jpg",
+    "static/media/profile.jpg": "/JungMusic/static/media/profile.b6c77859756c7c7e8a1f.jpg",
+    "static/media/track.png": "/JungMusic/static/media/track.bddb5792891bf59741a8.png",
+    "index.html": "/JungMusic/index.html",
+    "main.ce5b6c9a.css.map": "/JungMusic/static/css/main.ce5b6c9a.css.map",
+    "main.c4767068.js.map": "/JungMusic/static/js/main.c4767068.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/JungMusic/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce5b6c9a.css",
+    "static/js/main.c4767068.js"
+  ]
+}
